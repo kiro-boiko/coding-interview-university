@@ -479,7 +479,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] Free Store
     - [x] Vectors and Arrays
     - [x] Templates and Exceptions
-    - [ ] Containers and Iterators
+    - [x] Containers and Iterators
     - [ ] Intro to Algorithms and Maps
 
 - [x] **How computers process a program:**
