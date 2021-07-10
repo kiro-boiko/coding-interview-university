@@ -475,12 +475,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work
         - [Answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **Learn C++**
+- [x] **Learn C++**
     - [x] Free Store
     - [x] Vectors and Arrays
     - [x] Templates and Exceptions
     - [x] Containers and Iterators
-    - [ ] Intro to Algorithms and Maps
+    - [x] Intro to Algorithms and Maps
 
 - [x] **How computers process a program:**
     - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
