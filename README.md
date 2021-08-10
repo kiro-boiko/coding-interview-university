@@ -546,6 +546,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] Space
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
+    - [ ] Practice Problems
+    	- [x] PIE, 2e.
+    	- [ ] CCI, 6e.
 
 - ### Linked Lists
     - [x] Description:
@@ -580,6 +583,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] Doubly-linked List
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - No need to implement
+    - [ ] Practice Problems
+    	- [x] PIE, 2e.
+    	- [ ] CCI, 6e.
 
 - ### Stack
     - [x] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
