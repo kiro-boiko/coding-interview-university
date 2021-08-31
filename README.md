@@ -641,6 +641,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - exists(key)
         - get(key)
         - remove(key)
+        
+     - [ ] Practice Problems
+    	- [x] PIE, 2e.
+    	- [ ] CCI, 6e.   
 
 
 
